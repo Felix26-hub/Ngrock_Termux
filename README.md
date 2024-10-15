@@ -2,12 +2,14 @@
 
 Run official ngrok in termux
 
-Install
-
+# Install
+```bash
 pkg update -y
 pkg install git
 git clone https://github.com/Felix26-hub/Ngrock_Termux
 
 cd termux-ngrok
 bash install.sh
-And run : ngrok
+```
+
+And run : `ngrok`
